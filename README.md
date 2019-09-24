@@ -1,2 +1,0 @@
-# Datadrivenobject
-Passing the data
